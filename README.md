@@ -1,3 +1,4 @@
 # apnacollegedemo
-this is my Second repository. Singh
-Author- Himanshi
+this is my Second repository.
+<br>
+Author- Himanshi SINGH
